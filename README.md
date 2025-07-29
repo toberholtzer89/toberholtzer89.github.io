@@ -1,0 +1,1 @@
+This project consists of a resume with a link to a Projects page, which also links back to the resume as the starting point. CSS styling (external) ensures consistency across both pages.
